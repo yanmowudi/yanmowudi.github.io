@@ -1,6 +1,6 @@
 basic:
   name: Lik                          # name
-  title: Iot Developer               # job title
+  title: 嵌入式工程师                  # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -19,7 +19,7 @@ contact:
   drivinglicense: C1       # driving licence
 
   # contact
-  wechat: wechat            # username
+  wechat: wechat           # username
   whatsapp:                # 8611122223333     | https://wa.me/8611122223333
   telegram:                # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github: github.com/yanmowudi  # username          | https://github.com/username
+  github: yanmowudi        # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
